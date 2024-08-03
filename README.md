@@ -4,4 +4,5 @@
 
 conflict
 
-anatatowatasiよん
+jibunnnoripojitoridekousinn
+よん
