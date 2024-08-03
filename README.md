@@ -2,6 +2,6 @@
 このリポジトリはGit動画講座用です．
 
 
-suzukirinawookasitai
-takataka
+conflict
 
+githun上で更新したよんよんよん
