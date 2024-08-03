@@ -2,7 +2,6 @@
 このリポジトリはGit動画講座用です．
 
 
-conflict
-
-githun上で更新
+suzukirinawookasitai
+新
 
