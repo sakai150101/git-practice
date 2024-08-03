@@ -4,6 +4,6 @@
 
 conflict
 
-githun上で更新したよんよんよん
+suzukirina
 
 
