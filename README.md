@@ -4,5 +4,5 @@
 
 conflict
 
-jibunnnoripojitoridekousinn
+rebase-practice
 よん
