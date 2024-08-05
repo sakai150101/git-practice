@@ -5,6 +5,5 @@
 conflict
 
 rebase-practice(conflict)
-rebase用(stash conflict)
 
-stashrennsilyuu
+rebase用(stash conflict)2222222222222222222222222222222222
