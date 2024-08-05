@@ -5,5 +5,5 @@
 conflict
 
 rebase-practice(conflict)
-rebase用
+rebase用(stash conflict)
 
