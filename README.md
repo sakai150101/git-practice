@@ -4,5 +4,5 @@
 
 conflict
 
-rebase-practice
+rebase-practice(sinnnnnnn)
 よん
