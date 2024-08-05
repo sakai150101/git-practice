@@ -7,3 +7,4 @@ conflict
 rebase-practice(conflict)
 rebase用(stash conflict)
 
+stashrennsilyuu
